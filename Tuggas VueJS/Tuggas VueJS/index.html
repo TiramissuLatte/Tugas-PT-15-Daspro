@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+    <title>To Do App</title>
+</head>
+<body>
+    <div id="app">
+        <div class="container">
+            <h1>ToDo List</h1>
+
+            <div v-if="!isEditing">
+
+            <input type="text" v-model="todo">
+            <input type="submit" value="tambah" @click="storeTodo">
+            </div>
+
+            <div v-else>
+                <input type="text" v-model="todo">
+                <input type="submit" value="Ganti" @click="updateTodo">
+            </div>
+
+            <ol>
+                <li v-for="(todo, index) in todos">
+                    {{ todo }}
+
+                    <button @click="editTodo(index, todo)">Ubah</button>
+                    <button @click="deleteTodo(index)">Hapus</button>
+                </li>
+            </ol>
+        </div>
+    </div>
+
+    <script>
+        new Vue({
+            el: '#app',
+
+            data: {
+                isEditing: false,
+                selectedIndex: null,
+                todo: '',
+                todos: ['Push Up 50x', 'Lari 5KM']
+            },
+
+            methods: {
+                storeTodo(){
+                    this.todos.push(this.todo)
+                    this.todo =''
+                },
+
+                editTodo(index, todo) {
+                    this.todo = todo
+                    this.selectedIndex = index
+                    this.isEditing = true
+                },
+
+                updateTodo() {
+                    this.todos.splice(this.selectedIndex, 1, this.todo)
+                    this.isEditing = false
+                },
+
+                deleteTodo(index) {
+                    this.todos.splice(index, 1)
+                },
+            }
+        })
+    </script>
+    
+</body>
+</html>

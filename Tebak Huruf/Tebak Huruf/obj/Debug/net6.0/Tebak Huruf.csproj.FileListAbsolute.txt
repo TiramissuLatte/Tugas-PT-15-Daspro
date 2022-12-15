@@ -1,0 +1,30 @@
+C:\Users\danil\OneDrive\Desktop\Tugas Daspro\Tebak Huruf\bin\Debug\net6.0\Tebak Huruf.exe
+C:\Users\danil\OneDrive\Desktop\Tugas Daspro\Tebak Huruf\bin\Debug\net6.0\Tebak Huruf.deps.json
+C:\Users\danil\OneDrive\Desktop\Tugas Daspro\Tebak Huruf\bin\Debug\net6.0\Tebak Huruf.runtimeconfig.json
+C:\Users\danil\OneDrive\Desktop\Tugas Daspro\Tebak Huruf\bin\Debug\net6.0\Tebak Huruf.dll
+C:\Users\danil\OneDrive\Desktop\Tugas Daspro\Tebak Huruf\bin\Debug\net6.0\Tebak Huruf.pdb
+C:\Users\danil\OneDrive\Desktop\Tugas Daspro\Tebak Huruf\obj\Debug\net6.0\Tebak Huruf.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Desktop\Tugas Daspro\Tebak Huruf\obj\Debug\net6.0\Tebak Huruf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Desktop\Tugas Daspro\Tebak Huruf\obj\Debug\net6.0\Tebak Huruf.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Desktop\Tugas Daspro\Tebak Huruf\obj\Debug\net6.0\Tebak Huruf.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Desktop\Tugas Daspro\Tebak Huruf\obj\Debug\net6.0\Tebak Huruf.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Desktop\Tugas Daspro\Tebak Huruf\obj\Debug\net6.0\Tebak Huruf.dll
+C:\Users\danil\OneDrive\Desktop\Tugas Daspro\Tebak Huruf\obj\Debug\net6.0\refint\Tebak Huruf.dll
+C:\Users\danil\OneDrive\Desktop\Tugas Daspro\Tebak Huruf\obj\Debug\net6.0\Tebak Huruf.pdb
+C:\Users\danil\OneDrive\Desktop\Tugas Daspro\Tebak Huruf\obj\Debug\net6.0\Tebak Huruf.genruntimeconfig.cache
+C:\Users\danil\OneDrive\Desktop\Tugas Daspro\Tebak Huruf\obj\Debug\net6.0\ref\Tebak Huruf.dll
+C:\Users\danil\OneDrive\Desktop\Tebak Huruf\bin\Debug\net6.0\Tebak Huruf.exe
+C:\Users\danil\OneDrive\Desktop\Tebak Huruf\bin\Debug\net6.0\Tebak Huruf.deps.json
+C:\Users\danil\OneDrive\Desktop\Tebak Huruf\bin\Debug\net6.0\Tebak Huruf.runtimeconfig.json
+C:\Users\danil\OneDrive\Desktop\Tebak Huruf\bin\Debug\net6.0\Tebak Huruf.dll
+C:\Users\danil\OneDrive\Desktop\Tebak Huruf\bin\Debug\net6.0\Tebak Huruf.pdb
+C:\Users\danil\OneDrive\Desktop\Tebak Huruf\obj\Debug\net6.0\Tebak Huruf.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Desktop\Tebak Huruf\obj\Debug\net6.0\Tebak Huruf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Desktop\Tebak Huruf\obj\Debug\net6.0\Tebak Huruf.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Desktop\Tebak Huruf\obj\Debug\net6.0\Tebak Huruf.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Desktop\Tebak Huruf\obj\Debug\net6.0\Tebak Huruf.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Desktop\Tebak Huruf\obj\Debug\net6.0\Tebak Huruf.dll
+C:\Users\danil\OneDrive\Desktop\Tebak Huruf\obj\Debug\net6.0\refint\Tebak Huruf.dll
+C:\Users\danil\OneDrive\Desktop\Tebak Huruf\obj\Debug\net6.0\Tebak Huruf.pdb
+C:\Users\danil\OneDrive\Desktop\Tebak Huruf\obj\Debug\net6.0\Tebak Huruf.genruntimeconfig.cache
+C:\Users\danil\OneDrive\Desktop\Tebak Huruf\obj\Debug\net6.0\ref\Tebak Huruf.dll
